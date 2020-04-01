@@ -1,0 +1,4 @@
+#Wed Apr 01 04:16:28 BDT 2020
+base.0=/home/devsrv/AndroidStudioProjects/coronirus/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
